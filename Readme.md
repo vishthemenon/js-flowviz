@@ -1,7 +1,7 @@
 # Flow Vizualisation
 ## Todo
-- [ ] Velocity Potential
-- [ ] Uniform Flow
+- [x] Velocity Potential
+- [x] Uniform Flow
 - [ ] Source
 - [ ] Sink
 - [ ] Free Vortex (Held)
